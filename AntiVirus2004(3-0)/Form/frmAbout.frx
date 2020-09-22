@@ -1,0 +1,37 @@
+ÿ*This code is free open - source!
+No charge should be made for this software.
+
+The source is freely available at http://www.pscode.com
+
+Thanks to:
+
+	Johannes: for storing my files on his Webspace
+	Patabugen: for storing my files on his Webscpace 
+		   (www.patabugen.co.uk)
+	Paul: for his great CRC32 Checksum Algorithm
+
+	And to those who gave me hints and tips to improve 
+my
+	code!!!
+
+Revision List:
+
+
+Version 3.0
+	Added functionality for ZIP - File checking
+	Improved algorithm
+	Added possibility to scan script files
+	Added Reporting functions
+	Signature File updated to 17 entries
+	Small bug with the menu fixed
+
+Version 2.1
+	New Online DB
+
+Version 2.0
+	Search algorithm improoved
+	Changed to Checksum scanning
+	Full path search implemented
+
+Version 1.0
+	First Release
